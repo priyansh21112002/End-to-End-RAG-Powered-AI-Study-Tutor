@@ -353,7 +353,7 @@ This project demonstrates:
 
 ---
 
-##   Quantifying Performance (Resume Metrics)
+## � Quantifying Performance (Resume Metrics)
 
 ### Generate Your Metrics
 
@@ -411,7 +411,7 @@ NLG Quality Metrics:
 
 ---
 
-##  🐛 Troubleshooting
+## �🐛 Troubleshooting
 
 ### CUDA Out of Memory
 - Reduce `max_sequence_length` in `model_config.json` (try 1024)
